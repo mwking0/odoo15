@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+"id","model_id/id","name","active","perm_create","perm_unlink","perm_read","perm_write","domain_force"
+"own_tours","model_web_tour_tour","own tours","True","True","True","True","True","[('user_id','=', user.id)]"
+=======
+"id","model_id/id","name","active","perm_create","perm_unlink","perm_read","perm_write","domain_force"
+"own_tours","model_web_tour_tour","own tours","True","True","True","True","True","[('user_id','=', user.id)]"
+>>>>>>> dd20b235708bbe34c995fb1744798d511f84f9df

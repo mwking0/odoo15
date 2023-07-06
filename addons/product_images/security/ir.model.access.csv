@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_product_get_pic_barcode_manager,product.images.get.pic.barcode manager,model_product_fetch_image_wizard,base.group_system,1,1,1,0
+=======
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_product_get_pic_barcode_manager,product.images.get.pic.barcode manager,model_product_fetch_image_wizard,base.group_system,1,1,1,0
+>>>>>>> dd20b235708bbe34c995fb1744798d511f84f9df
